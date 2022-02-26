@@ -1,0 +1,30 @@
+/*
+#include<iostream>
+using namespace std;
+
+void  occurrence(int arr[], int n,int x)
+{
+int count =0;
+for(int i=0;i<n;i++)
+{
+if(arr[i]==x)
+{
+  count = count+1;
+
+}
+
+}
+ cout<<count<<endl;
+
+
+}
+
+int main()
+{
+int arr[] = {1,2,2,3,3,3,3,6};
+int n = sizeof(arr)/sizeof(arr[0]);
+occurrence(arr,n,3);
+
+}
+*/
+
